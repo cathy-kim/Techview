@@ -14,11 +14,11 @@ GCC 버전
 딥러닝
 
 4. Naver CLOVA 
-딥러닝 
+딥러닝 - Object Detection 및 기본 
 머신러닝
 JAVA 
 개발전반 
-
+프로젝트 
 
 
 
